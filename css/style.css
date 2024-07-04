@@ -1923,6 +1923,8 @@ blockquote {
 .banner{
 
 	position: relative;
+    margin-top: 6rem !important;
+
 
 }
 
@@ -3985,7 +3987,9 @@ background-color: #ffa400;
   height: 100%;
 
 }
-
+.page_banner{
+    margin-top: 10rem!important;
+}
 .page_banner .content {
 
   /*  position: absolute;
